@@ -5,6 +5,8 @@ green
 pink
 black
 brown
+white
+orange
 jew
 dress
 inverted
@@ -12,3 +14,6 @@ jabba
 seamus
 orange
 floyd
+satoko
+rabbi
+trump
